@@ -9,9 +9,9 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello.",
+  title: "Hey.",
   title2: "Karina",
-  logo_name: "<karina.patel/>",
+  logo_name: "<karina.ptl/>",
   nickname: "karinapatel02 / Karina",
   full_name: "Karina Patel",
   subTitle:
