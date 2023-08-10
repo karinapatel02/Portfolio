@@ -11,7 +11,7 @@ const settings = {
 const greeting = {
   title: "Hello.",
   title2: "Karina",
-  logo_name: "<karina.ptl/>",
+  logo_name: "<karina.patel/>",
   nickname: "karinapatel02 / Karina",
   full_name: "Karina Patel",
   subTitle:
